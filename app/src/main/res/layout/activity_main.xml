@@ -14,6 +14,8 @@
         android:layout_margin="300dp"
         android:text="휴대폰 방향을 바꿔보세용" />
 
+
+
     <activity
         android:name=".MainActivity"
         android:configChanges="orientation|screenSize|keyboardHidden">
